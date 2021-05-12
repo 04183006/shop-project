@@ -11,7 +11,7 @@
     "better-scroll": "^1.13.2",
     "core-js": "^3.6.4",
     "fastclick": "^1.0.6",
-    "postcss": "^7.0.27",
+    "postcss": "^8.2.10",
     "postcss-px-to-viewport": "^1.1.1",
     "px-to-viewport": "^1.0.0",
     "vue": "^2.6.11",
